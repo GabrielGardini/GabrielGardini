@@ -17,12 +17,34 @@
  <img align="center" alt="Gab-Ard" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
  
+ ##
+ 
  <div>
   <a href="https://github.com/GabrielGardini/Piano-Python">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Piano-Python&theme=blue-green"/>
+    <img height="100em" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Piano-Python&theme=blue-green"/>
    </a>
+  
+
+  
   <a href="https://github.com/GabrielGardini/Jacare-do-SUS">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Jacare-do-SUS&theme=blue-green"/>
+    <img height="100em" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Jacare-do-SUS&theme=blue-green"/>
    </a>
-   
+  
+ ##
+  
+  <a href="https://github.com/GabrielGardini/Calculadora-em-Python">
+    <img height="100em" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Calculadora-em-Python&theme=blue-green"/>
+   </a>
+  
+
+  
+  <a href="https://github.com/GabrielGardini/Temporizador-python">
+    <img height="100em" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Temporizador-python&theme=blue-green"/>
+   </a>
+  
+  ##
+  
+  <a href="https://github.com/GabrielGardini/Projeto_SandBox">
+    <img height="100em" width="300em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Projeto_SandBox&theme=blue-green"/>
+   </a>
   </div>
