@@ -26,5 +26,3 @@
    </a>
    
   </div>
- api/pin?username=anuraghazra&repo=github-readme-stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Jacare-do-SUS)](https://github.com/GabrielGardini/Jacare-do-SUS)
