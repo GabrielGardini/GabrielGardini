@@ -37,8 +37,8 @@
   
 
   
-  <a href="https://github.com/GabrielGardini/Projeto_SandBox">
-    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Projeto_SandBox&theme=blue-green"/>
+  <a href="https://github.com/GabrielGardini/FoodBox">
+    <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=FoodBox&theme=blue-green"/>
    </a>
   
   ##
