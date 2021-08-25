@@ -47,4 +47,9 @@
   <a href="https://github.com/GabrielGardini/Temporizador-python">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Temporizador-python&theme=blue-green"/>
    </a>
+  
+   <a href="https://github.com/GabrielGardini/Gerador-de-Senhas">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Gerador-de-Senhas&theme=blue-green"/>
+   </a>
   </div>
+ 
