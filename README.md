@@ -57,5 +57,9 @@
   <a href="https://github.com/GabrielGardini/Cotacao-de-moedas">
     <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Cotacao-de-moedas&theme=blue-green"/>
    </a>
+  
+  <a href="https://github.com/GabrielGardini/Jogo-Ping-Pong">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Jogo-Ping-Pong&theme=blue-green"/>
+   </a>
   </div>
  
