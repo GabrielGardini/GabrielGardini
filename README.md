@@ -20,6 +20,11 @@
  ##
  
  <div>
+  <a href="https://github.com/GabrielGardini/Dev.Finances">
+    <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Dev.Finances&theme=blue-green"/>
+   </a>
+ 
+ <div>
   <a href="https://github.com/GabrielGardini/Piano-Python">
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Piano-Python&theme=blue-green"/>
    </a>
