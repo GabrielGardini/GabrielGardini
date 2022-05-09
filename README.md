@@ -24,6 +24,14 @@
    </a>
  
  <div>
+  
+    <div>
+  <a href="https://github.com/GabrielGardini/Rentx">
+    <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Rentx&theme=blue-green"/>
+   </a>
+ 
+ <div>
+  
  <div>
   <a href="https://github.com/GabrielGardini/Dev.Finances">
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Dev.Finances&theme=blue-green"/>
