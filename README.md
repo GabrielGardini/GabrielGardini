@@ -17,27 +17,21 @@
  <img align="center" alt="Gab-Ard" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
  
- ##
+
   <div>
   <a href="https://github.com/GabrielGardini/GoFinances">
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=GoFinances&theme=blue-green"/>
    </a>
- 
- <div>
-  
-    <div>
+ ##
   <a href="https://github.com/GabrielGardini/Rentx">
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Rentx&theme=blue-green"/>
    </a>
- 
- <div>
-  
- <div>
+   
   <a href="https://github.com/GabrielGardini/Dev.Finances">
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Dev.Finances&theme=blue-green"/>
    </a>
  
- <div>
+ ##
   <a href="https://github.com/GabrielGardini/Piano-Python">
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Piano-Python&theme=blue-green"/>
    </a>
