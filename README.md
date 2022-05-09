@@ -18,7 +18,12 @@
 </div>
  
  ##
+  <div>
+  <a href="https://github.com/GabrielGardini/GoFinances">
+    <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=GoFinances&theme=blue-green"/>
+   </a>
  
+ <div>
  <div>
   <a href="https://github.com/GabrielGardini/Dev.Finances">
     <img height="120em"  src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielGardini&repo=Dev.Finances&theme=blue-green"/>
